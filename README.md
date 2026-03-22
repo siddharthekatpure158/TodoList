@@ -24,7 +24,7 @@ Looping and conditional statements
 
 ❌ Delete task
 
-📌 Mark task as completed (if implemented)
+
 
 🛠️ Technologies Used
 
