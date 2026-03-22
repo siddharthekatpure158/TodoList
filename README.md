@@ -34,4 +34,4 @@ ArrayList (Java Collections Framework)
 
 Scanner Class for user input
 
-Eclipse / IntelliJ IDE
+Eclipse / Visual Studio Code
